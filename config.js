@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Phải chăng em đã yêu tôi từ cái nhìn đầu tiên? ',
     btnYes: 'B.yêu luôn<33',
     btnNo: 'A.đéo :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Bạn yêu ai nhất ?? <3',
     btnReply: 'Gửi Anh iuu <3',
     reply: 'Hồng Trí Thiện',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
