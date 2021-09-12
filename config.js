@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'A.đéo :3',
     question:'Bạn yêu ai nhất ?? <3',
     btnReply: 'Gửi Anh iuu <3',
-    reply: 'Hồng Trí Thiện',
+    reply: 'Hồng Trí Thiện.....',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Thiện đẹp trai nhất vũ trụ.',
     btnAccept: 'hahaha <3',
