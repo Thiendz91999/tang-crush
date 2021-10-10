@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Gửi baby',
-    introDesc: `Dương Thúy Huỳnh
+    introDesc: `Hiệp bede
     
     
     `,
@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'A.đéo :3',
     question:'Bạn yêu ai nhất ?? <3',
     btnReply: 'Gửi Anh iuu <3',
-    reply: 'Hồng Trí Thiện.....',
+    reply: 'Võ Hoàng Phúc.....',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Thiện đẹp trai.',
+    messDesc: 'Phúc Xinh Gái.',
     btnAccept: 'hahaha <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
