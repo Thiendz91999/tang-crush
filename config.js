@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'Gửi baby',
     introDesc: `Hiệp bede
     
-    
-    `,
+
+
     btnIntro: 'click vào đây để tiếp tục',
     title: 'vui lòng chọn A hoặc B',
     desc: 'có yêu tôi không,trả lời  ',
