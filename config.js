@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Gửi baby',
-    introDesc: `Hiệp bede
+    introDesc: `Hiệp bede'
     
 
 
