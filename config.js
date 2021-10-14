@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Gửi vợ tương lai',
-    introDesc: `Thanh Chi
-    
+    introDesc: `
+    Huyền
     
     `,
     btnIntro: 'click vào dây để tiếp tục',
@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'A.Đéo :3',
     question:'Em yêu ai nhất <3',
     btnReply: 'Gửi anh iu <3',
-    reply: 'Nguyễn Lưu Tuấn Hiệp.......',
+    reply: 'Hồng Trí Thiện.......',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Yêu công chúa ❤️.',
     btnAccept: 'Yêu anh<3',
