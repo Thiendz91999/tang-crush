@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Gửi vợ tương lai',
     introDesc: `
-    Huyền
+    Huyền Cute
     
     `,
     btnIntro: 'click vào dây để tiếp tục',
